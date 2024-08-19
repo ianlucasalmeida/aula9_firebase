@@ -1,0 +1,13 @@
+#root{
+    display: flex;
+    background-color: darkgray;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.banner{
+    color: aqua;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
